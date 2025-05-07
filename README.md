@@ -1,4 +1,3 @@
-# Common-Lisp-Flying-Circus
-Exploring Algorithmic Puzzles and Other Magic Adventures in Common Lisp
-
+# SICP-GO
+Exploring Structure and Interpretation of Computer Programs with GO
 Learning to Solve Problems one Puzzle at a Time
